@@ -1,0 +1,16 @@
+JavaScript
+
+document.getElementById: Procura o elemento pelo id
+document.getElementByTagName: Procura o elemento pela tag
+document.getElementByClassName: Procura o elemento pela classe
+document.querySelector: Busca os elementos na DOM ate encontrar o elemento determinado
+document.createElement('tag do elemento que quer criar'): cria um novo elemento;
+
+<!-- <a href="/home/seifeer/Documentos/webjs/testes.html">Pagina de Testes</a></br>
+            <a href="/home/seifeer/Documentos/webjs/desafios/desafio1.html">Desafio 1</a></br>
+            <a href="/home/seifeer/Documentos/webjs/desafios/desafio2.html">Desafio 2</a></br>
+            <a href="/home/seifeer/Documentos/webjs/desafios/desafio3.html">Desafio 3</a></br>
+            <a href="/home/seifeer/Documentos/webjs/desafios/desafio4.html">Desafio 4</a></br>
+            <a href="/home/seifeer/Documentos/webjs/desafios/desafio5.html">Desafio 5</a></br>
+            <a href="/home/seifeer/Documentos/webjs/desafios/desafio6.html">Desafio 6</a></br>
+            <a href="/home/seifeer/Documentos/webjs/desafios/desafio7.html">Desafio 7</a></br> -->

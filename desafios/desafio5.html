@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Desfio 5</title>
+    </head>
+<body>
+    <script>
+        function skills(users){
+            var text1= 'O '+users[0].nome+' possui as habilidades: '+users[0].habilidades;
+            var text2= 'O '+users[1].nome+' possui as habilidades: '+users[1].habilidades;
+            console.log(text1);
+            console.log(text2);
+        }
+        var usuarios = [{
+                nome: "Diego",
+                habilidades: ["Javascript", "ReactJS", "Redux"]
+            },
+            {
+                nome: "Gabriel",
+                habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
+            }
+        ];
+        
+        skills(usuarios);
+
+    </script>
+</body>
+
+</html>
